@@ -1,0 +1,3 @@
+﻿  Demo.cpp
+C:\Users\rhyza\Desktop\C++ Code\Assignment 4\Demo.cpp(87,6): error C2676: binary '++': 'RINT' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\rhyza\Desktop\C++ Code\Assignment 4\Demo.cpp(88,7): error C2676: binary '+=': 'RINT' does not define this operator or a conversion to a type acceptable to the predefined operator
