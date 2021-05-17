@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  TString.cpp
+  Generating Code...
+C:\Users\rhyza\Desktop\C++ Code\Assignment 3\TString.cpp(159): warning C4715: 'TString::equals': not all control paths return a value
+  Assignment 3.vcxproj -> C:\Users\rhyza\Desktop\C++ Code\Assignment 3\Debug\Assignment 3.exe
