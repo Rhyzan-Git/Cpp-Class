@@ -1,0 +1,8 @@
+﻿  Card.cpp
+  Rolodex.cpp
+C:\Users\rhyza\Desktop\C++ Code\Rolodex\Rolodex.cpp(16,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rhyza\Desktop\C++ Code\Rolodex\Rolodex.cpp(16,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rhyza\Desktop\C++ Code\Rolodex\Rolodex.cpp(111,6): warning C4101: 'i': unreferenced local variable
+  main.cpp
+  Generating Code...
+  Rolodex.vcxproj -> C:\Users\rhyza\Desktop\C++ Code\Rolodex\Debug\Rolodex.exe
